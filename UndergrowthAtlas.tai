@@ -1,0 +1,26 @@
+# mods/pr_edit\Levels\operation_fading_reach/UndergrowthAtlas.tai
+# 
+# 
+# <filename>		<atlas filename>, <atlas idx>, <woffset>, <hoffset>, <width>, <height>
+# 
+# Texture <filename> can be found in texture atlas <atlas filename>, i.e.,
+# <group><idx>.dds with texture coordinates boundary given by:
+#   A = ( <woffset>, <hoffset> )
+#   B = ( <woffset> + <width>, <hoffset> + <height> )
+# 
+# where coordinates (0,0) and (1,1) of the original texture map correspond
+# to coordinates A and B, respectively, in the texture atlas.
+
+
+Content/Terrain/Undergrowth/cattails.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0, 0, 0.25, 0.125
+Content/Terrain/Undergrowth/cattailsyellow.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.25, 0, 0.25, 0.125
+Content/Terrain/Undergrowth/fieldgrass.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.5, 0, 0.25, 0.125
+Content/Terrain/Undergrowth/fieldgrasslighter.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.75, 0, 0.25, 0.125
+Content/Terrain/Undergrowth/fieldgrasslighter2.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0, 0.125, 0.25, 0.125
+Content/Terrain/Undergrowth/flower.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.25, 0.125, 0.25, 0.125
+Content/Terrain/Undergrowth/grass_mix.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.5, 0.125, 0.25, 0.125
+Content/Terrain/Undergrowth/grass_mix3.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.75, 0.125, 0.25, 0.125
+Content/Terrain/Undergrowth/karkand_grass.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0, 0.25, 0.25, 0.125
+Content/Terrain/Undergrowth/ME_deadstick01.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0, 0.375, 0.125, 0.125
+Content/Terrain/Undergrowth/thinhighgrass.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0.125, 0.375, 0.125, 0.125
+Content/Terrain/Undergrowth/ME_genrock01.dds		Levels\operation_fading_reach/UndergrowthAtlas0.dds, 0, 0, 0.5, 0.0625, 0.0625

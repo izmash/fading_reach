@@ -1,0 +1,524 @@
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po11_compiled.mesh
+object.absoluteposition 408.603/16.8465/-154.755
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g16_compiled.mesh
+object.absoluteposition -514.962/17.5091/555.661
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s7_compiled.mesh
+object.absoluteposition 212.581/18.3456/175.893
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g19_compiled.mesh
+object.absoluteposition -500.017/14.9997/-31.8931
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s12_compiled.mesh
+object.absoluteposition 182.623/16.9697/-409.177
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s13_compiled.mesh
+object.absoluteposition -730.938/16.9529/-373.864
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s4_compiled.mesh
+object.absoluteposition 694.497/16.3571/507.719
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s2_compiled.mesh
+object.absoluteposition 721.197/27.1934/-6.14024
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s1_compiled.mesh
+object.absoluteposition 778.313/30.6577/-565.545
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po10_compiled.mesh
+object.absoluteposition 385.594/16.9749/37.0692
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po5_compiled.mesh
+object.absoluteposition 528.225/15.3413/883.015
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po4_compiled.mesh
+object.absoluteposition -98.7571/17.1151/769.35
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po3_compiled.mesh
+object.absoluteposition -805.712/18.1796/477.926
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po6_compiled.mesh
+object.absoluteposition -412.678/17.6864/-79.1832
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po14_compiled.mesh
+object.absoluteposition 115.696/16.9744/-524.368
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po12_compiled.mesh
+object.absoluteposition 235.41/16.9702/-493.395
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po13_compiled.mesh
+object.absoluteposition 202.375/16.9869/-554.717
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s11_compiled.mesh
+object.absoluteposition 294.513/21.7368/-208.305
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po35_compiled.mesh
+object.absoluteposition 428.812/16.5286/-758.722
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po2_compiled.mesh
+object.absoluteposition -431.903/17.8203/408.688
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g1_compiled.mesh
+object.absoluteposition -642.606/17.9272/757.993
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g29_compiled.mesh
+object.absoluteposition 176.951/46.3327/700.162
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g2_compiled.mesh
+object.absoluteposition 422.634/18.5044/832.916
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g36_compiled.mesh
+object.absoluteposition -527.965/16.9087/-161.435
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g3_compiled.mesh
+object.absoluteposition 241.773/17.208/918.149
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g4_compiled.mesh
+object.absoluteposition 245.713/18.3526/226.087
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g5_compiled.mesh
+object.absoluteposition 251.805/18.3526/220.492
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s8_compiled.mesh
+object.absoluteposition 233.731/18.3513/287.068
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s9_compiled.mesh
+object.absoluteposition 333.174/18.3508/380.305
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s10_compiled.mesh
+object.absoluteposition 312.581/21.9279/48.6634
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g6_compiled.mesh
+object.absoluteposition 294.419/18.3455/158.393
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s6_compiled.mesh
+object.absoluteposition 237.339/18.3526/251.004
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g7_compiled.mesh
+object.absoluteposition 270.175/18.3526/310.316
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g8_compiled.mesh
+object.absoluteposition 188.584/18.3526/250.822
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g9_compiled.mesh
+object.absoluteposition 330.704/18.3527/406.871
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po8_compiled.mesh
+object.absoluteposition 81.8555/16.9686/-444.444
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po9_compiled.mesh
+object.absoluteposition -7.75322/16.9721/-479.529
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po15_compiled.mesh
+object.absoluteposition 8.78782/16.9734/-404.062
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po16_compiled.mesh
+object.absoluteposition -213.404/16.407/-422.828
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po17_compiled.mesh
+object.absoluteposition 239.469/17.0537/-296.676
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g17_compiled.mesh
+object.absoluteposition -716.855/18.231/161.465
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\18_compiled.mesh
+object.absoluteposition -704.882/17.1461/-193.607
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g15_compiled.mesh
+object.absoluteposition 402.589/17.7304/636.376
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s3_compiled.mesh
+object.absoluteposition 605.053/16.7617/-555.407
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po26_compiled.mesh
+object.absoluteposition 706.883/18.4818/304.202
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park1_compiled.mesh
+object.absoluteposition 604.302/20.2904/-89.3646
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s5_compiled.mesh
+object.absoluteposition 608.685/19.3961/-43.5409
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po7_compiled.mesh
+object.absoluteposition 437.958/15.6023/479.728
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g10_compiled.mesh
+object.absoluteposition 693.837/18.8538/-718.286
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g11_compiled.mesh
+object.absoluteposition 943.113/53.8799/-455.59
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g12_compiled.mesh
+object.absoluteposition 871.932/43.4818/416.392
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g13_compiled.mesh
+object.absoluteposition 822.144/35.5316/-789.425
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po19_compiled.mesh
+object.absoluteposition 422.185/16.846/-109.433
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po34_compiled.mesh
+object.absoluteposition 373.307/17.4003/-349.105
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po22_compiled.mesh
+object.absoluteposition -530.281/16.5868/-714.366
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g14_compiled.mesh
+object.absoluteposition -253.846/52.2957/-805.02
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g49_compiled.mesh
+object.absoluteposition -627.165/14.834/-847.964
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\parking2_compiled.mesh
+object.absoluteposition 22.4999/17.4078/-519.954
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g26_compiled.mesh
+object.absoluteposition -79.1334/40.085/-210.147
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g25_compiled.mesh
+object.absoluteposition -301.543/16.2372/-395.623
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g28_compiled.mesh
+object.absoluteposition -489.756/15.2534/-42.7122
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g22_compiled.mesh
+object.absoluteposition 431.533/18.3528/779.468
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g23_compiled.mesh
+object.absoluteposition 721.005/14.1598/907.035
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g24_compiled.mesh
+object.absoluteposition 734.894/14.1761/904.798
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g21_compiled.mesh
+object.absoluteposition -585.682/16.7786/643.08
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g20_compiled.mesh
+object.absoluteposition -575.853/16.8016/701.932
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g27_compiled.mesh
+object.absoluteposition -718.363/17.5552/-368.456
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g30_compiled.mesh
+object.absoluteposition 242.181/18.771/836.28
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g31_compiled.mesh
+object.absoluteposition 424.421/18.4241/765.286
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g32_compiled.mesh
+object.absoluteposition 641.422/18.6907/-53.2763
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g33_compiled.mesh
+object.absoluteposition 643.429/18.6821/44.4216
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g34_compiled.mesh
+object.absoluteposition 641.026/18.6856/3.29999
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g35_compiled.mesh
+object.absoluteposition 639.349/18.412/-164.664
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g37_compiled.mesh
+object.absoluteposition -503.972/16.8486/-161.774
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g38_compiled.mesh
+object.absoluteposition -503.266/16.8842/-260.868
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g39_compiled.mesh
+object.absoluteposition -526.928/16.2521/-93.9199
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g40_compiled.mesh
+object.absoluteposition -474.484/15.5965/-53.2841
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g41_compiled.mesh
+object.absoluteposition -507.921/14.8348/-37.4058
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g42_compiled.mesh
+object.absoluteposition -458.27/16.2787/-11.2519
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g43_compiled.mesh
+object.absoluteposition 762.029/25.6052/-610.56
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p1_compiled.mesh
+object.absoluteposition 625.355/18.6812/-21.7977
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p2_compiled.mesh
+object.absoluteposition 629.261/18.6151/-131.16
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g44_compiled.mesh
+object.absoluteposition 720.364/28.6565/199.429
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p3_compiled.mesh
+object.absoluteposition 360.388/16.0597/132.052
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p4_compiled.mesh
+object.absoluteposition 295.006/18.2525/196.631
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park3_compiled.mesh
+object.absoluteposition 592.028/20.3741/-99.6168
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park4_compiled.mesh
+object.absoluteposition 593.677/20.3741/-73.1057
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park5_compiled.mesh
+object.absoluteposition 215.657/18.3527/291.277
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g45_compiled.mesh
+object.absoluteposition 307.726/27.4213/-125.454
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g46_compiled.mesh
+object.absoluteposition -23.3811/15.4924/207.442
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g47_compiled.mesh
+object.absoluteposition 10.9123/14.8097/225.946
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g48_compiled.mesh
+object.absoluteposition 42.1403/14.2838/202.921
+
+object.create RR_ParkingSpaces02_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\tp1_compiled.mesh
+object.absoluteposition 340.693/17.4079/-354.314
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park6_compiled.mesh
+object.absoluteposition 109.459/17.4079/-391.639
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park7_compiled.mesh
+object.absoluteposition 129.766/17.4076/-377.365
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park9_compiled.mesh
+object.absoluteposition 327.668/17.4078/-317.792
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park10_compiled.mesh
+object.absoluteposition -27.8767/17.4077/-450.684
+
+object.create basket_court
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\basket_compiled.mesh
+object.absoluteposition 29.0689/17.4078/-453.304
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park11_compiled.mesh
+object.absoluteposition 60.3527/17.4077/-354.174
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park12_compiled.mesh
+object.absoluteposition 47.63/17.4078/-347.096
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park13_compiled.mesh
+object.absoluteposition -101.368/17.4078/-497.821
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park14_compiled.mesh
+object.absoluteposition -104.142/17.4078/-481.179
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park15_compiled.mesh
+object.absoluteposition 67.4012/17.4078/-441.946
+
+object.create helipad
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\heli_compiled.mesh
+object.absoluteposition -73.5859/17.4055/-502.453
+
+object.create RR_Suburbs_XP2
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\s14_compiled.mesh
+object.absoluteposition 251.998/17.4077/-414.072
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park16_compiled.mesh
+object.absoluteposition 225.104/17.4078/-414.09
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park17_compiled.mesh
+object.absoluteposition 210.565/17.4078/-364.79
+
+object.create helipad
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\heli2_compiled.mesh
+object.absoluteposition 996.048/16.124/1006.76
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park18_compiled.mesh
+object.absoluteposition 141.689/17.4078/-484.609
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park19_compiled.mesh
+object.absoluteposition 120.828/17.4078/-492.681
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park20_compiled.mesh
+object.absoluteposition 168.597/17.4078/-579.601
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park21_compiled.mesh
+object.absoluteposition 106.077/17.4078/-559.983
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park22_compiled.mesh
+object.absoluteposition 314.556/17.4078/-616.445
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park23_compiled.mesh
+object.absoluteposition 294.789/17.4078/-585.768
+
+object.create ParkingLots
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\park24_compiled.mesh
+object.absoluteposition 277.575/17.4078/-621.129
+
+object.create gravel_road_xpack
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\g50_compiled.mesh
+object.absoluteposition -75.017/17.3431/-403.436
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p5_compiled.mesh
+object.absoluteposition 269.405/16.9656/-479.544
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p6_compiled.mesh
+object.absoluteposition 171.35/16.9667/-507.103
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p7_compiled.mesh
+object.absoluteposition 192.098/16.9672/-435.271
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p8_compiled.mesh
+object.absoluteposition 139.082/16.9664/-347.932
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p9_compiled.mesh
+object.absoluteposition 83.6537/16.9656/-421.339
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p10_compiled.mesh
+object.absoluteposition 82.8655/16.9657/-488.711
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p11_compiled.mesh
+object.absoluteposition 47.4004/16.9656/-395.103
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p12_compiled.mesh
+object.absoluteposition -40.7227/16.9658/-416.803
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p13_compiled.mesh
+object.absoluteposition -50.8142/16.9656/-456.074
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p14_compiled.mesh
+object.absoluteposition 15.2217/16.9661/-500.531
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p15_compiled.mesh
+object.absoluteposition 100.744/16.9657/-519.614
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p16_compiled.mesh
+object.absoluteposition 206.066/16.9656/-554.829
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p17_compiled.mesh
+object.absoluteposition -506.565/16.8695/-190.78
+
+object.create PedestrianCrossing
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\p18_compiled.mesh
+object.absoluteposition -497.642/15.8071/-65.2481
+
+object.create paved1lane
+object.geometry.loadMesh Levels\operation_fading_reach\Roads\po1_compiled.mesh
+object.absoluteposition 67.3491/17.0048/211.791
+

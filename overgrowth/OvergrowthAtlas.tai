@@ -1,0 +1,37 @@
+# mods/pr_edit/levels\operation_fading_reach\overgrowth\OvergrowthAtlas.tai
+# 
+# 
+# <filename>		<atlas filename>, <atlas idx>, <woffset>, <hoffset>, <width>, <height>
+# 
+# Texture <filename> can be found in texture atlas <atlas filename>, i.e.,
+# <group><idx>.dds with texture coordinates boundary given by:
+#   A = ( <woffset>, <hoffset> )
+#   B = ( <woffset> + <width>, <hoffset> + <height> )
+# 
+# where coordinates (0,0) and (1,1) of the original texture map correspond
+# to coordinates A and B, respectively, in the texture atlas.
+
+
+objects/vegitation/pr/textures/wheat_le.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0, 0, 0.25, 1
+objects/vegitation/america/textures/xp2_apple01lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.25, 0, 0.125, 0.5
+objects/vegitation/america/textures/xp2_apple02lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.25, 0.5, 0.125, 0.5
+objects/vegitation/asia/textures/leaf_ncfern01de_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.375, 0, 0.125, 0.5
+objects/vegitation/asia/textures/ncpineleaf01lodde.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.375, 0.5, 0.125, 0.5
+objects/vegitation/pr/textures/tree_deciduous_2_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.5, 0, 0.125, 0.5
+objects/vegitation/pr/textures/tree_deciduous_3_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.5, 0.5, 0.125, 0.5
+objects/vegitation/pr/textures/tree_deciduous_4_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.625, 0, 0.125, 0.5
+objects/vegitation/asia/textures/tile_ncbark01de_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.625, 0.5, 0.125, 0.25
+objects/vegitation/pr/textures/birch_green_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.75, 0, 0.0625, 0.5
+objects/vegitation/pr/textures/fir10m_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.75, 0.5, 0.0625, 0.5
+objects/vegitation/pr/textures/fir20m_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.8125, 0, 0.0625, 0.5
+objects/vegitation/pr/textures/deciduous_bush_1_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.8125, 0.5, 0.03125, 0.5
+objects/vegitation/pr/textures/deciduous_bush_2_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.625, 0.75, 0.0625, 0.25
+objects/vegitation/pr/textures/fields/wildgrasses02_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.6875, 0.75, 0.0625, 0.25
+objects/vegitation/pr/textures/hedgerow_20m_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.875, 0, 0.125, 0.125
+objects/vegitation/pr/textures/bush_pine_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.84375, 0.5, 0.03125, 0.25
+objects/vegitation/pr/textures/hedgerow_10m_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.875, 0.125, 0.0625, 0.125
+objects/vegitation/pr/textures/tree_deciduous_lod_top.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.84375, 0.75, 0.03125, 0.25
+objects/vegitation/pr/textures/hedgerow_5m_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.9375, 0.125, 0.03125, 0.125
+objects/vegitation/pr/textures/largebush_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.96875, 0.125, 0.03125, 0.125
+objects/vegitation/pr/textures/camonet_lod.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.875, 0.25, 0.015625, 0.125
+objects/staticobjects/pr/textures/null_c.dds		levels\operation_fading_reach\overgrowth\OvergrowthAtlas0.dds, 0, 0.875, 0.375, 0.00390625, 0.03125

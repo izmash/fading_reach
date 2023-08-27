@@ -1,0 +1,73 @@
+GroundProperties.SetDetailTexture 0 "common\terrain\textures\detail\detail_rock09.dds"
+GroundProperties.SetColorTexture 0 "common\terrain\textures\color\mountains.dds"
+GroundProperties.SetColor 0 0 0 0
+GroundProperties.SetMaterial 0 rock
+GroundProperties.SetTopTiling 0 32
+GroundProperties.SetSideTiling 0 32/16
+GroundProperties.SetYOffset 0 0
+GroundProperties.SetPlaneMap 0 1
+GroundProperties.SetColorTiling 0 1/1
+GroundProperties.SetLowDetailType 0 2
+GroundProperties.SetEnvMap 0 0
+GroundProperties.SetDetailTexture 1 "common\terrain\textures\detail\detail_grass05.dds"
+GroundProperties.SetColorTexture 1 "common\terrain\textures\color\grass.dds"
+GroundProperties.SetColor 1 0 34 0
+GroundProperties.SetMaterial 1 Grass
+GroundProperties.SetTopTiling 1 64
+GroundProperties.SetSideTiling 1 2/2
+GroundProperties.SetYOffset 1 0
+GroundProperties.SetPlaneMap 1 0
+GroundProperties.SetColorTiling 1 1/1
+GroundProperties.SetLowDetailType 1 1
+GroundProperties.SetEnvMap 1 0
+GroundProperties.SetDetailTexture 2 "common\terrain\textures\detail\fields01.dds"
+GroundProperties.SetColorTexture 2 "common\terrain\textures\color\brown01.dds"
+GroundProperties.SetColor 2 63 63 63
+GroundProperties.SetMaterial 2 Dirt
+GroundProperties.SetTopTiling 2 64
+GroundProperties.SetSideTiling 2 2/2
+GroundProperties.SetYOffset 2 0
+GroundProperties.SetPlaneMap 2 0
+GroundProperties.SetColorTiling 2 1/1
+GroundProperties.SetLowDetailType 2 1
+GroundProperties.SetEnvMap 2 0
+GroundProperties.SetDetailTexture 3 "common\terrain\textures\detail\detail_tarmac01.dds"
+GroundProperties.SetColorTexture 3 "common\terrain\textures\color\tarmac01.dds"
+GroundProperties.SetColor 3 83 83 83
+GroundProperties.SetMaterial 3 Tarmac
+GroundProperties.SetTopTiling 3 64
+GroundProperties.SetSideTiling 3 2/2
+GroundProperties.SetYOffset 3 0
+GroundProperties.SetPlaneMap 3 0
+GroundProperties.SetColorTiling 3 1/1
+GroundProperties.SetLowDetailType 3 0
+GroundProperties.SetEnvMap 3 0
+GroundProperties.SetDetailTexture 4 "common\terrain\textures\detail\detail_cobble3.dds"
+GroundProperties.SetColorTexture 4 "common\terrain\textures\color\asphalt.dds"
+GroundProperties.SetColor 4 0 0 0
+GroundProperties.SetMaterial 4 rock
+GroundProperties.SetTopTiling 4 48
+GroundProperties.SetSideTiling 4 2/2
+GroundProperties.SetYOffset 4 0
+GroundProperties.SetPlaneMap 4 0
+GroundProperties.SetColorTiling 4 1/1
+GroundProperties.SetLowDetailType 4 0
+GroundProperties.SetEnvMap 4 0
+GroundProperties.SetDetailTexture 5 "common\terrain\textures\detail\detail_dirt03.dds"
+GroundProperties.SetColorTexture 5 "common\terrain\textures\color\tarmac02.dds"
+GroundProperties.SetColor 5 76 62 37
+GroundProperties.SetMaterial 5 Dirt
+GroundProperties.SetTopTiling 5 32
+GroundProperties.SetSideTiling 5 2/2
+GroundProperties.SetYOffset 5 0
+GroundProperties.SetPlaneMap 5 0
+GroundProperties.SetColorTiling 5 1/1
+GroundProperties.SetLowDetailType 5 1
+GroundProperties.SetEnvMap 5 0
+
+MiscGroundProperties.SetFarTopTilingHi 16
+MiscGroundProperties.SetFarTopTilingLow 32
+MiscGroundProperties.SetFarSideTiling 2/2
+MiscGroundProperties.SetFarYOffset 0
+MiscGroundProperties.SetLodSwitchDistance 75
+

@@ -1,0 +1,509 @@
+rem *********** TriggerTrigger ***********
+
+rem ********** AmbientEffectArea **********
+
+rem ************ AmbientSounds ************
+
+rem [SoundObjectTemplate: S_AmbientPuddle]
+ObjectTemplate.create Sound S_AmbientPuddle
+ObjectTemplate.activeSafe Sound S_AmbientPuddle
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/effect_waves_lake_light.wav"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.08
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -545.693/16.14/-111.476
+ObjectTemplate.minDistance 15
+
+Sound.addTrigger S_AmbientPuddle
+
+rem [SoundObjectTemplate: S_AmbientSwamp1]
+ObjectTemplate.create Sound S_AmbientSwamp1
+ObjectTemplate.activeSafe Sound S_AmbientSwamp1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/effect_waves_lake_light.wav"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.08
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -554.61/-8.415/372.422
+ObjectTemplate.minDistance 90
+
+Sound.addTrigger S_AmbientSwamp1
+
+rem [SoundObjectTemplate: S_AmbientForest1]
+ObjectTemplate.create Sound S_AmbientForest1
+ObjectTemplate.activeSafe Sound S_AmbientForest1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -554.218/23.741/275.098
+ObjectTemplate.minDistance 150
+
+Sound.addTrigger S_AmbientForest1
+
+rem [SoundObjectTemplate: S_AmbientForest2]
+ObjectTemplate.create Sound S_AmbientForest2
+ObjectTemplate.activeSafe Sound S_AmbientForest2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -30.559/-41.685/-92.783
+ObjectTemplate.minDistance 260
+
+Sound.addTrigger S_AmbientForest2
+
+rem [SoundObjectTemplate: S_AmbientForest3]
+ObjectTemplate.create Sound S_AmbientForest3
+ObjectTemplate.activeSafe Sound S_AmbientForest3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -949.16/63.325/838.391
+ObjectTemplate.minDistance 250
+
+Sound.addTrigger S_AmbientForest3
+
+rem [SoundObjectTemplate: S_AmbientForest4]
+ObjectTemplate.create Sound S_AmbientForest4
+ObjectTemplate.activeSafe Sound S_AmbientForest4
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -128.693/36.889/1007.42
+ObjectTemplate.minDistance 300
+
+Sound.addTrigger S_AmbientForest4
+
+rem [SoundObjectTemplate: S_AmbientForest5]
+ObjectTemplate.create Sound S_AmbientForest5
+ObjectTemplate.activeSafe Sound S_AmbientForest5
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 37.502/89.098/557.633
+ObjectTemplate.minDistance 200
+
+Sound.addTrigger S_AmbientForest5
+
+rem [SoundObjectTemplate: S_AmbientForest6]
+ObjectTemplate.create Sound S_AmbientForest6
+ObjectTemplate.activeSafe Sound S_AmbientForest6
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -649.729/21.161/-512.192
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_AmbientForest6
+
+rem [SoundObjectTemplate: S_AmbientForest7]
+ObjectTemplate.create Sound S_AmbientForest7
+ObjectTemplate.activeSafe Sound S_AmbientForest7
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -865.927/46.471/137.819
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_AmbientForest7
+
+rem [SoundObjectTemplate: S_AmbientForest8]
+ObjectTemplate.create Sound S_AmbientForest8
+ObjectTemplate.activeSafe Sound S_AmbientForest8
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -889.977/42.772/-160.65
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_AmbientForest8
+
+rem [SoundObjectTemplate: S_AmbientForest9]
+ObjectTemplate.create Sound S_AmbientForest9
+ObjectTemplate.activeSafe Sound S_AmbientForest9
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -809.458/16.683/-357.956
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_AmbientForest9
+
+rem [SoundObjectTemplate: S_AmbientForest10]
+ObjectTemplate.create Sound S_AmbientForest10
+ObjectTemplate.activeSafe Sound S_AmbientForest10
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -1020.02/58.319/-872.251
+ObjectTemplate.minDistance 50
+
+Sound.addTrigger S_AmbientForest10
+
+rem [SoundObjectTemplate: S_AmbientForest11]
+ObjectTemplate.create Sound S_AmbientForest11
+ObjectTemplate.activeSafe Sound S_AmbientForest11
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -17.672/112.918/-954.655
+ObjectTemplate.minDistance 150
+
+Sound.addTrigger S_AmbientForest11
+
+rem [SoundObjectTemplate: S_AmbientForest12]
+ObjectTemplate.create Sound S_AmbientForest12
+ObjectTemplate.activeSafe Sound S_AmbientForest12
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -97.481/41.423/-652.249
+ObjectTemplate.minDistance 120
+
+Sound.addTrigger S_AmbientForest12
+
+rem [SoundObjectTemplate: S_AmbientForest13]
+ObjectTemplate.create Sound S_AmbientForest13
+ObjectTemplate.activeSafe Sound S_AmbientForest13
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 239.852/40.651/-761.793
+ObjectTemplate.minDistance 100
+
+Sound.addTrigger S_AmbientForest13
+
+rem [SoundObjectTemplate: S_AmbientForest14]
+ObjectTemplate.create Sound S_AmbientForest14
+ObjectTemplate.activeSafe Sound S_AmbientForest14
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 845.286/38.868/-834.134
+ObjectTemplate.minDistance 140
+
+Sound.addTrigger S_AmbientForest14
+
+rem [SoundObjectTemplate: S_AmbientForest15]
+ObjectTemplate.create Sound S_AmbientForest15
+ObjectTemplate.activeSafe Sound S_AmbientForest15
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 828.857/43.345/-466.872
+ObjectTemplate.minDistance 140
+
+Sound.addTrigger S_AmbientForest15
+
+rem [SoundObjectTemplate: S_AmbientForest16]
+ObjectTemplate.create Sound S_AmbientForest16
+ObjectTemplate.activeSafe Sound S_AmbientForest16
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 800.351/47.697/138.622
+ObjectTemplate.minDistance 140
+
+Sound.addTrigger S_AmbientForest16
+
+rem [SoundObjectTemplate: S_AmbientForest17]
+ObjectTemplate.create Sound S_AmbientForest17
+ObjectTemplate.activeSafe Sound S_AmbientForest17
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 858.622/43.448/491.886
+ObjectTemplate.minDistance 140
+
+Sound.addTrigger S_AmbientForest17
+
+rem [SoundObjectTemplate: S_AmbientForest18]
+ObjectTemplate.create Sound S_AmbientForest18
+ObjectTemplate.activeSafe Sound S_AmbientForest18
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "objects/effects/sounds/ambient/deep_forest_wind_01.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 0.25
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 952.993/54.622/-80.076
+ObjectTemplate.minDistance 140
+
+Sound.addTrigger S_AmbientForest18
+
+if v_arg1 == BF2Editor
+
+Object.create S_AmbientPuddle
+Object.absolutePosition -545.693/16.140/-111.476
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientSwamp1
+Object.absolutePosition -554.610/-8.415/372.422
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest1
+Object.absolutePosition -554.218/23.741/275.098
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest2
+Object.absolutePosition -30.559/-41.685/-92.783
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest3
+Object.absolutePosition -949.160/63.325/838.391
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest4
+Object.absolutePosition -128.693/36.889/1007.418
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest5
+Object.absolutePosition 37.502/89.098/557.633
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest6
+Object.absolutePosition -649.729/21.161/-512.192
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest7
+Object.absolutePosition -865.927/46.471/137.819
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest8
+Object.absolutePosition -889.977/42.772/-160.650
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest9
+Object.absolutePosition -809.458/16.683/-357.956
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest10
+Object.absolutePosition -1020.019/58.319/-872.251
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest11
+Object.absolutePosition -17.672/112.918/-954.655
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest12
+Object.absolutePosition -97.481/41.423/-652.249
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest13
+Object.absolutePosition 239.852/40.651/-761.793
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest14
+Object.absolutePosition 845.286/38.868/-834.134
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest15
+Object.absolutePosition 828.857/43.345/-466.872
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest16
+Object.absolutePosition 800.351/47.697/138.622
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest17
+Object.absolutePosition 858.622/43.448/491.886
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientForest18
+Object.absolutePosition 952.993/54.622/-80.076
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+endIf

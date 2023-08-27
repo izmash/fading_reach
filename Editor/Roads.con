@@ -1,0 +1,1573 @@
+rem ** [Road] - po11**
+Road.CreateInstance "po11" 1 "paved1lane" 1597569059
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g16**
+Road.CreateInstance "g16" 2 "gravel_road_xpack" 1593525442
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s7**
+Road.CreateInstance "s7" 3 "RR_Suburbs_XP2" 1594930217
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g19**
+Road.CreateInstance "g19" 8 "gravel_road_xpack" 1593532196
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s12**
+Road.CreateInstance "s12" 11 "RR_Suburbs_XP2" 1595864749
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s13**
+Road.CreateInstance "s13" 12 "RR_Suburbs_XP2" 1595864971
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s4**
+Road.CreateInstance "s4" 15 "RR_Suburbs_XP2" 1594758038
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s2**
+Road.CreateInstance "s2" 16 "RR_Suburbs_XP2" 1594757838
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s1**
+Road.CreateInstance "s1" 18 "RR_Suburbs_XP2" 1594757571
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po10**
+Road.CreateInstance "po10" 19 "paved1lane" 1597568984
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po5**
+Road.CreateInstance "po5" 20 "paved1lane" 1597568734
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po4**
+Road.CreateInstance "po4" 21 "paved1lane" 1597568412
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po3**
+Road.CreateInstance "po3" 22 "paved1lane" 1597568297
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po6**
+Road.CreateInstance "po6" 23 "paved1lane" 1585842543
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po14**
+Road.CreateInstance "po14" 24 "paved1lane" 1597569123
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po12**
+Road.CreateInstance "po12" 25 "paved1lane" 1587736580
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po13**
+Road.CreateInstance "po13" 27 "paved1lane" 1587736469
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s11**
+Road.CreateInstance "s11" 28 "RR_Suburbs_XP2" 1594982616
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po35**
+Road.CreateInstance "po35" 29 "paved1lane" 1597244690
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po2**
+Road.CreateInstance "po2" 30 "paved1lane" 1597568211
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g1**
+Road.CreateInstance "g1" 31 "gravel_road_xpack" 1586296591
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g29**
+Road.CreateInstance "g29" 32 "gravel_road_xpack" 1593548692
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g2**
+Road.CreateInstance "g2" 33 "gravel_road_xpack" 1586525281
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g36**
+Road.CreateInstance "g36" 34 "gravel_road_xpack" 1594412312
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g3**
+Road.CreateInstance "g3" 35 "gravel_road_xpack" 1586525718
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g4**
+Road.CreateInstance "g4" 36 "gravel_road_xpack" 1586602406
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g5**
+Road.CreateInstance "g5" 37 "gravel_road_xpack" 1586602445
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s8**
+Road.CreateInstance "s8" 38 "RR_Suburbs_XP2" 1596634536
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s9**
+Road.CreateInstance "s9" 39 "RR_Suburbs_XP2" 1596634549
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s10**
+Road.CreateInstance "s10" 40 "RR_Suburbs_XP2" 1594930275
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g6**
+Road.CreateInstance "g6" 41 "gravel_road_xpack" 1586607723
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s6**
+Road.CreateInstance "s6" 42 "RR_Suburbs_XP2" 1597244566
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g7**
+Road.CreateInstance "g7" 43 "gravel_road_xpack" 1586614884
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g8**
+Road.CreateInstance "g8" 44 "gravel_road_xpack" 1586628655
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g9**
+Road.CreateInstance "g9" 45 "gravel_road_xpack" 1586628732
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po8**
+Road.CreateInstance "po8" 47 "paved1lane" 1587912787
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po9**
+Road.CreateInstance "po9" 48 "paved1lane" 1587912929
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po15**
+Road.CreateInstance "po15" 49 "paved1lane" 1587914019
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po16**
+Road.CreateInstance "po16" 50 "paved1lane" 1588105743
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po17**
+Road.CreateInstance "po17" 51 "paved1lane" 1588106003
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g17**
+Road.CreateInstance "g17" 52 "gravel_road_xpack" 1593530135
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - 18**
+Road.CreateInstance "18" 53 "gravel_road_xpack" 1593530372
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g15**
+Road.CreateInstance "g15" 54 "gravel_road_xpack" 1593525135
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s3**
+Road.CreateInstance "s3" 55 "RR_Suburbs_XP2" 1594757896
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po26**
+Road.CreateInstance "po26" 56 "paved1lane" 1597244475
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park1**
+Road.CreateInstance "park1" 57 "ParkingLots" 1594904447
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s5**
+Road.CreateInstance "s5" 58 "RR_Suburbs_XP2" 1594903159
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/0
+Road.FadeDistAtStartRight 0/0
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po7**
+Road.CreateInstance "po7" 59 "paved1lane" 1597568821
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g10**
+Road.CreateInstance "g10" 60 "gravel_road_xpack" 1590077984
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g11**
+Road.CreateInstance "g11" 61 "gravel_road_xpack" 1590085977
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g12**
+Road.CreateInstance "g12" 62 "gravel_road_xpack" 1590086627
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g13**
+Road.CreateInstance "g13" 63 "gravel_road_xpack" 1590089936
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po19**
+Road.CreateInstance "po19" 64 "paved1lane" 1590091544
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po34**
+Road.CreateInstance "po34" 65 "paved1lane" 1597244682
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po22**
+Road.CreateInstance "po22" 66 "paved1lane" 1590340750
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g14**
+Road.CreateInstance "g14" 67 "gravel_road_xpack" 1590341817
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g49**
+Road.CreateInstance "g49" 68 "gravel_road_xpack" 1595600174
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - parking2**
+Road.CreateInstance "parking2" 69 "ParkingLots" 1590957051
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g26**
+Road.CreateInstance "g26" 70 "gravel_road_xpack" 1593546387
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g25**
+Road.CreateInstance "g25" 71 "gravel_road_xpack" 1593546382
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g28**
+Road.CreateInstance "g28" 72 "gravel_road_xpack" 1594632753
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g22**
+Road.CreateInstance "g22" 73 "gravel_road_xpack" 1593546341
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g23**
+Road.CreateInstance "g23" 74 "gravel_road_xpack" 1593546347
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g24**
+Road.CreateInstance "g24" 75 "gravel_road_xpack" 1593546352
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g21**
+Road.CreateInstance "g21" 76 "gravel_road_xpack" 1593546317
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g20**
+Road.CreateInstance "g20" 77 "gravel_road_xpack" 1593546303
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g27**
+Road.CreateInstance "g27" 78 "gravel_road_xpack" 1593546403
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g30**
+Road.CreateInstance "g30" 79 "gravel_road_xpack" 1593548699
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g31**
+Road.CreateInstance "g31" 80 "gravel_road_xpack" 1593548916
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g32**
+Road.CreateInstance "g32" 81 "gravel_road_xpack" 1593607060
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g33**
+Road.CreateInstance "g33" 82 "gravel_road_xpack" 1593607128
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g34**
+Road.CreateInstance "g34" 83 "gravel_road_xpack" 1593607184
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g35**
+Road.CreateInstance "g35" 84 "gravel_road_xpack" 1593776247
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g37**
+Road.CreateInstance "g37" 85 "gravel_road_xpack" 1594412335
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g38**
+Road.CreateInstance "g38" 86 "gravel_road_xpack" 1594412355
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g39**
+Road.CreateInstance "g39" 87 "gravel_road_xpack" 1594412383
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g40**
+Road.CreateInstance "g40" 88 "gravel_road_xpack" 1594412410
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g41**
+Road.CreateInstance "g41" 89 "gravel_road_xpack" 1594412426
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g42**
+Road.CreateInstance "g42" 90 "gravel_road_xpack" 1594412456
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g43**
+Road.CreateInstance "g43" 91 "gravel_road_xpack" 1594836305
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p1**
+Road.CreateInstance "p1" 92 "PedestrianCrossing" 1594896895
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p2**
+Road.CreateInstance "p2" 93 "PedestrianCrossing" 1594897029
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g44**
+Road.CreateInstance "g44" 94 "gravel_road_xpack" 1594898106
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p3**
+Road.CreateInstance "p3" 95 "PedestrianCrossing" 1594903276
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p4**
+Road.CreateInstance "p4" 96 "PedestrianCrossing" 1594903380
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park3**
+Road.CreateInstance "park3" 97 "ParkingLots" 1594904538
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park4**
+Road.CreateInstance "park4" 98 "ParkingLots" 1594904610
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park5**
+Road.CreateInstance "park5" 99 "ParkingLots" 1594926175
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g45**
+Road.CreateInstance "g45" 100 "gravel_road_xpack" 1594982739
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g46**
+Road.CreateInstance "g46" 101 "gravel_road_xpack" 1595070864
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g47**
+Road.CreateInstance "g47" 102 "gravel_road_xpack" 1595070910
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g48**
+Road.CreateInstance "g48" 103 "gravel_road_xpack" 1595071157
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - tp1**
+Road.CreateInstance "tp1" 104 "RR_ParkingSpaces02_XP2" 1595432399
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park6**
+Road.CreateInstance "park6" 105 "ParkingLots" 1595439523
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park7**
+Road.CreateInstance "park7" 106 "ParkingLots" 1595437997
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park9**
+Road.CreateInstance "park9" 108 "ParkingLots" 1595439251
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park10**
+Road.CreateInstance "park10" 109 "ParkingLots" 1595442490
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - basket**
+Road.CreateInstance "basket" 110 "basket_court" 1595598030
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park11**
+Road.CreateInstance "park11" 111 "ParkingLots" 1595606670
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park12**
+Road.CreateInstance "park12" 112 "ParkingLots" 1595606705
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park13**
+Road.CreateInstance "park13" 113 "ParkingLots" 1595606772
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park14**
+Road.CreateInstance "park14" 114 "ParkingLots" 1595606811
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park15**
+Road.CreateInstance "park15" 115 "ParkingLots" 1595606895
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - heli**
+Road.CreateInstance "heli" 116 "helipad" 1595851814
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - s14**
+Road.CreateInstance "s14" 117 "RR_Suburbs_XP2" 1595865300
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park16**
+Road.CreateInstance "park16" 118 "ParkingLots" 1596051269
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park17**
+Road.CreateInstance "park17" 119 "ParkingLots" 1596051340
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - heli2**
+Road.CreateInstance "heli2" 120 "helipad" 1596054084
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park18**
+Road.CreateInstance "park18" 121 "ParkingLots" 1596634825
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park19**
+Road.CreateInstance "park19" 122 "ParkingLots" 1596634944
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park20**
+Road.CreateInstance "park20" 123 "ParkingLots" 1596634959
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park21**
+Road.CreateInstance "park21" 124 "ParkingLots" 1596635010
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park22**
+Road.CreateInstance "park22" 125 "ParkingLots" 1596635074
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park23**
+Road.CreateInstance "park23" 126 "ParkingLots" 1596635113
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - park24**
+Road.CreateInstance "park24" 127 "ParkingLots" 1596635146
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - g50**
+Road.CreateInstance "g50" 128 "gravel_road_xpack" 1596636480
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p5**
+Road.CreateInstance "p5" 129 "PedestrianCrossing" 1596717079
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p6**
+Road.CreateInstance "p6" 130 "PedestrianCrossing" 1596717094
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p7**
+Road.CreateInstance "p7" 131 "PedestrianCrossing" 1596717107
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p8**
+Road.CreateInstance "p8" 132 "PedestrianCrossing" 1596717124
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p9**
+Road.CreateInstance "p9" 133 "PedestrianCrossing" 1596717138
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p10**
+Road.CreateInstance "p10" 134 "PedestrianCrossing" 1596717151
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p11**
+Road.CreateInstance "p11" 135 "PedestrianCrossing" 1596717167
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p12**
+Road.CreateInstance "p12" 136 "PedestrianCrossing" 1596717178
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p13**
+Road.CreateInstance "p13" 137 "PedestrianCrossing" 1596717190
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p14**
+Road.CreateInstance "p14" 138 "PedestrianCrossing" 1596717211
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p15**
+Road.CreateInstance "p15" 139 "PedestrianCrossing" 1596717220
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p16**
+Road.CreateInstance "p16" 140 "PedestrianCrossing" 1596717237
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p17**
+Road.CreateInstance "p17" 141 "PedestrianCrossing" 1596717290
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - p18**
+Road.CreateInstance "p18" 142 "PedestrianCrossing" 1596717305
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - po1**
+Road.CreateInstance "po1" 143 "paved1lane" 1597568114
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+

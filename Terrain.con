@@ -1,0 +1,24 @@
+if v_arg1 == BF2Editor
+terrain.create TerrainEditable
+terrain.patchSize 128
+terrain.subdividePatches 1
+terrain.primaryWorldScale 2/0.00274658/2
+terrain.secondaryWorldScale 8/0.703125/8
+terrain.patchColormapSize 512
+terrain.lowDetailmapSize 512
+terrain.detailmapBaseName "Levels/operation_fading_reach/Detailmaps/tx"
+terrain.lowDetailmapBaseName "Levels/operation_fading_reach/LowDetailmaps/tx"
+terrain.colormapBaseName "Levels/operation_fading_reach/Colormaps/tx"
+terrain.lightmapBaseName "Levels/operation_fading_reach/Lightmaps/tx"
+terrain.farSideTiling 2/2
+terrain.farTopTilingHi 16
+terrain.farTopTilingLow 32
+terrain.farYOffset 0
+terrain.terrainWaterColor 0/0/0
+terrain.init
+
+else
+terrain.create Terrain
+terrain.load Levels/operation_fading_reach/terraindata.raw
+endIf
+

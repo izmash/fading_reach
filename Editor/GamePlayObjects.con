@@ -1,0 +1,1081 @@
+rem ********** Object Spawner **********
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_truck1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_trk_kamaz_logistics
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_truck2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_trk_kamaz_logistics
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_truck3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_trk_kamaz_support
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_truck4]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck4
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_truck4
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_trk_kamaz_support
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_car1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_jep_tigr_pkp
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_apc1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_apc1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_apc1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_apc_btr82am
+ObjectTemplate.minSpawnDelay 600
+ObjectTemplate.maxSpawnDelay 600
+ObjectTemplate.spawnDelayAtStart 1
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_apc2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_apc2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_apc2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_apc_btr82am
+ObjectTemplate.minSpawnDelay 600
+ObjectTemplate.maxSpawnDelay 600
+ObjectTemplate.spawnDelayAtStart 1
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_car2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_jep_tigr
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_car3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_car3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 ru_jep_tigr
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_repair]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_repair
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_repair
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 vehicle_depot_ru
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_crate1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 fixed_supply_crate_ru
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_crate2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 fixed_supply_crate_ru
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_southernfarm_crate3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_southernfarm_crate3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 2 fixed_supply_crate_ru
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 2
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_a1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_a1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_a1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_apc_rosomak
+ObjectTemplate.minSpawnDelay 600
+ObjectTemplate.maxSpawnDelay 600
+ObjectTemplate.spawnDelayAtStart 1
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_a2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_a2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_a2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_apc_rosomak
+ObjectTemplate.minSpawnDelay 600
+ObjectTemplate.maxSpawnDelay 600
+ObjectTemplate.spawnDelayAtStart 1
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_c1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_jep_hmmwv_uparmored
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_c2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_jep_honker
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_c3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_c3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_jep_honker
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_tr1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_tr1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_tr1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_trk_support
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_t2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_trk_support
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_t3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_trk_logistics
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_t4]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t4
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_t4
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pl_trk_logistics
+ObjectTemplate.minSpawnDelay 300
+ObjectTemplate.maxSpawnDelay 300
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_cr1]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr1
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 fixed_supply_crate_pl
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_cr2]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr2
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 fixed_supply_crate_pl
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+rem [ObjectSpawnerTemplate: cpname_community_op_fading_reach_aas64_northdeployment_cr3]
+ObjectTemplate.create ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr3
+ObjectTemplate.activeSafe ObjectSpawner cpname_community_op_fading_reach_aas64_northdeployment_cr3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 fixed_supply_crate_pl
+ObjectTemplate.minSpawnDelay 0
+ObjectTemplate.maxSpawnDelay 0
+ObjectTemplate.TimeToLive 99999
+ObjectTemplate.team 1
+ObjectTemplate.teamOnVehicle 1
+
+if v_arg1 == host
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_truck1]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_truck1
+   Object.absolutePosition -635.348/15.875/-918.511
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_truck2]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_truck2
+   Object.absolutePosition -640.253/15.816/-918.462
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_truck3]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_truck3
+   Object.absolutePosition -644.974/15.792/-918.369
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_truck4]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_truck4
+   Object.absolutePosition -649.879/15.718/-918.435
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_car1]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_car1
+   Object.absolutePosition -668.513/14.842/-898.131
+   Object.rotation 90.512/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_apc1]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_apc1
+   Object.absolutePosition -609.312/17.771/-915.538
+   Object.rotation 25.999/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_apc2]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_apc2
+   Object.absolutePosition -614.323/17.996/-925.871
+   Object.rotation 26.124/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_car2]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_car2
+   Object.absolutePosition -605.393/17.572/-907.122
+   Object.rotation 24.751/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_car3]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_car3
+   Object.absolutePosition -602.161/17.382/-899.708
+   Object.rotation 23.384/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_repair]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_repair
+   Object.absolutePosition -670.397/15.099/-906.231
+   Object.rotation -88.123/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_crate1]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_crate1
+   Object.absolutePosition -653.836/14.717/-863.922
+   Object.rotation 2.631/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_crate2]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_crate2
+   Object.absolutePosition -633.986/14.798/-844.742
+   Object.rotation 2.631/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_southernfarm_crate3]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm_crate3
+   Object.absolutePosition -632.822/14.839/-873.258
+   Object.rotation 58.587/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_a1]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_a1
+   Object.absolutePosition 1002.202/15.961/927.070
+   Object.rotation -94.433/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_a2]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_a2
+   Object.absolutePosition 992.501/15.979/926.415
+   Object.rotation -98.448/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_c1]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_c1
+   Object.absolutePosition 1005.347/16.235/971.935
+   Object.rotation 179.716/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_c2]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_c2
+   Object.absolutePosition 984.234/15.952/925.638
+   Object.rotation -94.895/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_c3]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_c3
+   Object.absolutePosition 977.944/15.911/925.290
+   Object.rotation -90.633/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_tr1]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_tr1
+   Object.absolutePosition 989.378/16.235/945.931
+   Object.rotation 178.541/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_t2]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_t2
+   Object.absolutePosition 985.464/16.235/945.897
+   Object.rotation 179.202/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_t3]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_t3
+   Object.absolutePosition 974.985/16.235/945.330
+   Object.rotation -179.612/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_t4]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_t4
+   Object.absolutePosition 979.045/16.235/945.342
+   Object.rotation 179.894/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_cr1]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_cr1
+   Object.absolutePosition 1003.493/16.235/955.325
+   Object.rotation 179.716/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_cr2]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_cr2
+   Object.absolutePosition 982.950/16.235/969.714
+   Object.rotation 179.716/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+   rem [ObjectSpawner: cpname_community_op_fading_reach_aas64_northdeployment_cr3]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment_cr3
+   Object.absolutePosition 1007.996/16.235/990.365
+   Object.rotation 179.716/0.000/0.000
+   Object.setControlPointId 113
+   Object.layer 2
+
+endIf
+
+rem ********** Spawn Points **********
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_1]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_1
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_1]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_1
+Object.absolutePosition -661.484/14.823/-858.745
+Object.rotation 179.693/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_2]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_2
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_2]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_2
+Object.absolutePosition -661.139/14.694/-843.990
+Object.rotation 11.464/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_3]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_3
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_3]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_3
+Object.absolutePosition -629.182/14.763/-864.744
+Object.rotation -84.909/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_4]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_4
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_4
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_4]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_4
+Object.absolutePosition -618.779/14.872/-862.407
+Object.rotation 9.670/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_5]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_5
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_5
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_5]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_5
+Object.absolutePosition -626.713/14.600/-848.670
+Object.rotation -171.892/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_6]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_6
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_6
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_6]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_6
+Object.absolutePosition -637.076/14.823/-840.133
+Object.rotation -141.245/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_7]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_7
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_7
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_7]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_7
+Object.absolutePosition -662.935/14.674/-877.400
+Object.rotation 90.825/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm_8]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_8
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_southernfarm_8
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_southernfarm_8]
+Object.create cpname_community_op_fading_reach_aas64_southernfarm_8
+Object.absolutePosition -663.152/14.532/-889.245
+Object.rotation 95.247/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_1]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_1
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_1
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_1]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_1
+Object.absolutePosition 982.717/16.235/975.324
+Object.rotation 98.523/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_2]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_2
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_2
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_2]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_2
+Object.absolutePosition 988.390/16.235/960.818
+Object.rotation 63.111/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_3]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_3
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_3
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_3]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_3
+Object.absolutePosition 989.138/16.235/957.839
+Object.rotation 74.999/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_4]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_4
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_4
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_4]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_4
+Object.absolutePosition 991.758/16.235/986.837
+Object.rotation 173.061/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_5]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_5
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_5
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_5]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_5
+Object.absolutePosition 997.311/16.235/987.655
+Object.rotation -177.615/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_6]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_6
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_6
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_6]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_6
+Object.absolutePosition 1006.969/16.094/995.677
+Object.rotation -97.780/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment_7]
+ObjectTemplate.create SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_7
+ObjectTemplate.activeSafe SpawnPoint cpname_community_op_fading_reach_aas64_northdeployment_7
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 113
+
+rem [SpawnPoint: cpname_community_op_fading_reach_aas64_northdeployment_7]
+Object.create cpname_community_op_fading_reach_aas64_northdeployment_7
+Object.absolutePosition 993.322/16.235/948.334
+Object.rotation -179.674/0.000/0.000
+Object.layer 2
+
+rem ********** Control Points **********
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_southernfarm]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_southernfarm
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_southernfarm
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_southernfarm
+ObjectTemplate.radius 50
+ObjectTemplate.team 2
+ObjectTemplate.controlPointId 1
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_skowronymansion]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_skowronymansion
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_skowronymansion
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_skowronymansion
+ObjectTemplate.radius 120
+ObjectTemplate.controlPointId 101
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 412
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_skowronynorth]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_skowronynorth
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_skowronynorth
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_skowronynorth
+ObjectTemplate.radius 140
+ObjectTemplate.controlPointId 102
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 412
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_sawmill]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_sawmill
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_sawmill
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_sawmill
+ObjectTemplate.radius 150
+ObjectTemplate.controlPointId 103
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 312
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_bigfarm]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_bigfarm
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_bigfarm
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_bigfarm
+ObjectTemplate.radius 150
+ObjectTemplate.controlPointId 104
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 312
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_gnatycentral]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_gnatycentral
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_gnatycentral
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_gnatycentral
+ObjectTemplate.radius 100
+ObjectTemplate.controlPointId 105
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 212
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_gnatynorth]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_gnatynorth
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_gnatynorth
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_gnatynorth
+ObjectTemplate.radius 150
+ObjectTemplate.controlPointId 106
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 212
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_sucharycentral]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_sucharycentral
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_sucharycentral
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_sucharycentral
+ObjectTemplate.radius 150
+ObjectTemplate.controlPointId 107
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 211
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_sucharynorth]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_sucharynorth
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_sucharynorth
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_sucharynorth
+ObjectTemplate.radius 120
+ObjectTemplate.controlPointId 108
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 211
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_mocherowowest]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_mocherowowest
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_mocherowowest
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_mocherowowest
+ObjectTemplate.radius 100
+ObjectTemplate.controlPointId 109
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 311
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_mocherowoeast]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_mocherowoeast
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_mocherowoeast
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_mocherowoeast
+ObjectTemplate.radius 100
+ObjectTemplate.controlPointId 110
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 311
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_forestcp]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_forestcp
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_forestcp
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_forestcp
+ObjectTemplate.radius 120
+ObjectTemplate.controlPointId 111
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 401
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_sucharysouth]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_sucharysouth
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_sucharysouth
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_sucharysouth
+ObjectTemplate.radius 150
+ObjectTemplate.controlPointId 112
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 311
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cpname_community_op_fading_reach_aas64_northdeployment]
+ObjectTemplate.create ControlPoint cpname_community_op_fading_reach_aas64_northdeployment
+ObjectTemplate.activeSafe ControlPoint cpname_community_op_fading_reach_aas64_northdeployment
+ObjectTemplate.modifiedByUser "Izmash"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cpname_community_op_fading_reach_aas64_northdeployment
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 113
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.MinimapNameOffset -10/0
+ObjectTemplate.supplyGroupId 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+if v_arg1 == host
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_southernfarm]
+   Object.create cpname_community_op_fading_reach_aas64_southernfarm
+   Object.absolutePosition -638.096/14.474/-855.270
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_skowronymansion]
+   Object.create cpname_community_op_fading_reach_aas64_skowronymansion
+   Object.absolutePosition -548.997/16.977/-234.154
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_skowronynorth]
+   Object.create cpname_community_op_fading_reach_aas64_skowronynorth
+   Object.absolutePosition -488.077/16.186/-9.976
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_sawmill]
+   Object.create cpname_community_op_fading_reach_aas64_sawmill
+   Object.absolutePosition -697.269/20.374/823.002
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_bigfarm]
+   Object.create cpname_community_op_fading_reach_aas64_bigfarm
+   Object.absolutePosition -446.910/17.845/481.281
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_gnatycentral]
+   Object.create cpname_community_op_fading_reach_aas64_gnatycentral
+   Object.absolutePosition 251.031/18.353/221.713
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_gnatynorth]
+   Object.create cpname_community_op_fading_reach_aas64_gnatynorth
+   Object.absolutePosition 341.690/18.353/518.140
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_sucharycentral]
+   Object.create cpname_community_op_fading_reach_aas64_sucharycentral
+   Object.absolutePosition 633.943/18.763/-101.227
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_sucharynorth]
+   Object.create cpname_community_op_fading_reach_aas64_sucharynorth
+   Object.absolutePosition 698.917/28.919/227.292
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_mocherowowest]
+   Object.create cpname_community_op_fading_reach_aas64_mocherowowest
+   Object.absolutePosition 3.414/17.408/-477.184
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_mocherowoeast]
+   Object.create cpname_community_op_fading_reach_aas64_mocherowoeast
+   Object.absolutePosition 273.007/17.408/-457.306
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_forestcp]
+   Object.create cpname_community_op_fading_reach_aas64_forestcp
+   Object.absolutePosition 165.345/68.597/-885.609
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_sucharysouth]
+   Object.create cpname_community_op_fading_reach_aas64_sucharysouth
+   Object.absolutePosition 821.386/38.676/-632.311
+   Object.layer 2
+
+   rem [ControlPoint: cpname_community_op_fading_reach_aas64_northdeployment]
+   Object.create cpname_community_op_fading_reach_aas64_northdeployment
+   Object.absolutePosition 987.018/16.235/984.649
+   Object.layer 2
+
+endIf
+
+CombatAreaManager.use 1
+CombatAreaManager.timeAllowedOutside 10.000000
+CombatArea.create CombatArea_0_aas64
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint -1023.668579/-1024.000000
+CombatArea.addAreaPoint -1023.426575/-765.143066
+CombatArea.addAreaPoint -1023.230164/1023.292236
+CombatArea.addAreaPoint 1016.433350/1022.869385
+CombatArea.addAreaPoint 1021.281860/956.374268
+CombatArea.addAreaPoint 1020.778687/921.818848
+CombatArea.addAreaPoint 1023.091553/878.750244
+CombatArea.addAreaPoint 1023.415039/-1022.564026
+CombatArea.team 0
+CombatArea.vehicles 4
+CombatArea.layer 2
+

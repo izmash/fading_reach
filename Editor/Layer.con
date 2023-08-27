@@ -1,0 +1,13 @@
+rem ******** aas64 ********
+LayerManager.AddUserLayer "aas64" 4 2 1 1
+LayerManager.SetLocked 0
+LayerManager.SetDisabled 0
+LayerManager.AddGameModeFilter "gpm_cq"
+LayerManager.AddPlayerFilter "64"
+
+rem ******** Fields ********
+LayerManager.AddUserLayer "Fields" 8 3 1 1
+LayerManager.SetLocked 0
+LayerManager.SetDisabled 0
+
+
